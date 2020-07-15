@@ -7,4 +7,8 @@ div {
   width: 300px;
 }
 
+form + div {
+  display: block;
+}
+
 #personTemplate {display:none;}
