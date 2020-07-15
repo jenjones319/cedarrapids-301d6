@@ -19,6 +19,7 @@ h1 {
 
 ul {
   visibility:hidden;
+  /* display: none; */
 }
 
 ul.on {
