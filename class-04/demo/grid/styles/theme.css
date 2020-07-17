@@ -1,0 +1,33 @@
+header, footer {
+  background-color: #5E747F;
+  color: white;
+}
+
+nav {
+  background-color: #7B9E87;
+}
+
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  background-color: #B6BE9C;
+  color: black;
+}
+
+.content1 {
+  background-color: #d5a6bd;
+}
+
+.content2 {
+  background-color: #b6d7a8;
+}
+
+.content3, .content4 {
+  background-color: #9fc5e8;
+}
+
+.content5, .content6, .content7 {
+  background-color: #b4a7d6;
+}
